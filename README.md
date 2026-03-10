@@ -28,7 +28,7 @@ BPML_GenericFunctions : 1\
 jsbLuaProfilerMod : 0\
 MusicMenuHUDToggle : 1 <- THIS IS LINE TO ADD (do not add this comment)\
 ; Built-in keybinds, do not move up!\
-Keybinds : 1\
+Keybinds : 1
 
 6. Make sure that if you want to change the name of the mod, make sure to change, in `...\Win64\Mods`, the mod folder name **exactly** the same, also in `mod.json` and `mods.txt` as well.
 
