@@ -31,6 +31,7 @@ MusicMenuHUDToggle : 1 <- THIS IS LINE TO ADD (do not add this comment)\
 Keybinds : 1
 
 6. Make sure that if you want to change the name of the mod, make sure to change, in `...\Win64\Mods`, the mod folder name **exactly** the same, also in `mod.json` and `mods.txt` as well.
+7. Done! I added some footage, to see the actual differences.
 
 ## Usage
 While inside the Jukebox menu, press **F9** to toggle UI visibility. **(And do not try using it in other active screens like main menu.)**\
