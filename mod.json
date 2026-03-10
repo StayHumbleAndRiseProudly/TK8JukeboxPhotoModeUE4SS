@@ -1,0 +1,7 @@
+{
+  "name": "MusicMenuHUDToggle",
+  "version": "1.0",
+  "description": "Toggle UI with F9 in music select",
+  "author": "Anyone",
+  "main": "scripts/main.lua"
+}
